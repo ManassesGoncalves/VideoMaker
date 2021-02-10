@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ManassesGoncalves/VideoMaker/issues"
   },
-  "homepage": "https://github.com/ManassesGoncalves/VideoMaker#readme"
+  "homepage": "https://github.com/ManassesGoncalves/VideoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
