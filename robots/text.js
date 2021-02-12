@@ -1,5 +1,5 @@
 const algorithmia = require('algorithmia') //importado modulo do algorithmia
-const algorithmiaApiKey = require('../credencials/algorithmia.json').apiKey
+const algorithmiaApiKey = require('../credentials/algorithmia.json').apiKey
 const sentenceBoundaryDetectation = require('sbd')
 
 async function robot(content) {
