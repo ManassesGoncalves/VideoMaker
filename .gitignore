@@ -106,4 +106,5 @@ dist
 # credentials
 credentials/*.json
 
-content.json
+ontent/*.png
+.DS_Store
